@@ -20,11 +20,11 @@ Here are some of the projects I've worked on:
 
 1. My Web Portfolio
    - Technologies used: Angular
-   - [Link to PortfolioCent](#https://cesarcenturion.netlify.app/)
+   - https://cesarcenturion.netlify.app/
 
 2. Spotify Clone
    - Technologies used: Angular
-   - [Link to Spotify Clone](#https://spotify-clone-cent.netlify.app/)
+   - https://spotify-clone-cent.netlify.app/
 
 ## Technology Stack
 
