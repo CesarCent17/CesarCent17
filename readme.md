@@ -10,8 +10,21 @@ Passionate software developer from Ecuador 🇪🇨
 
 ## Work experience
 
-- 💻 Junior programmer - Iguana Digital (3 months)
-- 🚀 Development engineer - Integrity Solutions (7 months)
+- 🚀 Full Stack Developer - Integrity Solutions (October 2023 - Present)
+- 🚀 Development Engineer - Integrity Solutions (April 2023 - September 2023)
+- 💻 Junior Programmer - Iguana Digital (July 2022 - September 2023)
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. My Web Portfolio
+   - Technologies used: Angular
+   - [Link to PortfolioCent](#https://cesarcenturion.netlify.app/)
+
+2. Spotify Clone
+   - Technologies used: Angular
+   - [Link to Spotify Clone](#https://spotify-clone-cent.netlify.app/)
 
 ## Technology Stack
 
