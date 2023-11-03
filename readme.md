@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 
 2. [Spotify Clone](https://spotify-clone-cent.netlify.app/)
    - Technologies used: Angular
-   - 
+     
 ## Technology Stack
 
 Here are the technologies I have skills in:
