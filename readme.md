@@ -12,7 +12,7 @@ Passionate software developer from Ecuador 🇪🇨
 
 - 🚀 Full Stack Developer - Integrity Solutions (October 2023 - Present)
 - 🚀 Development Engineer - Integrity Solutions (April 2023 - September 2023)
-- 💻 Junior Programmer - Iguana Digital (July 2022 - September 2023)
+- 💻 Junior Programmer - Iguana Digital (July 2022 - September 2022)
 
 ## Projects
 
