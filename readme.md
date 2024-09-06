@@ -9,12 +9,7 @@ Passionate software developer from Ecuador 🇪🇨
 ## Projects
 
 Here are some of the projects I've worked on:
-
-1. [My Web Portfolio](https://cesarcenturion.netlify.app/)
-   - Technologies used: Angular
-
-2. [Spotify Clone](https://spotify-clone-cent.netlify.app/)
-   - Technologies used: Angular
+[Spotify Clone](https://spotify-clone-cent.netlify.app/)
      
 ## Technology Stack
 
