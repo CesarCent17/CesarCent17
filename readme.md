@@ -4,7 +4,6 @@ Passionate software developer from Ecuador 🇪🇨
 
 ## Contact me
 
-- 🌐 Website: https://cesarcenturion.netlify.app/
 - 📧 Email: cesarcent17@outlook.com
 
 ## Projects
