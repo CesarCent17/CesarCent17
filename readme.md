@@ -15,11 +15,9 @@ Here are some of the projects I've worked on:
 
 Here are the technologies I have skills in:
 
-- - .NET Core
+-  .NET Core
 - #️⃣ C#
-- - 🧪 SQL Server
-
-- 🌐 JavaScript
+- 🧪 SQL Server
 - 🔷 TypeScript
 - 🅰️ Angular
 
