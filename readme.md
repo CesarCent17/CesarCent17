@@ -15,14 +15,10 @@ Here are some of the projects I've worked on:
 
 Here are the technologies I have skills in:
 
-- 🐍 Python
+- - .NET Core
 - #️⃣ C#
 - 🌐 JavaScript
 - 🔷 TypeScript
-- ☕ Java
-- 💻 PHP
-- 🐍 Django
-- .NET Core
 - 🅰️ Angular
 - 🍃 Spring Boot
 - 📟 Laravel
