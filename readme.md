@@ -17,15 +17,11 @@ Here are the technologies I have skills in:
 
 - - .NET Core
 - #️⃣ C#
+- - 🧪 SQL Server
+
 - 🌐 JavaScript
 - 🔷 TypeScript
 - 🅰️ Angular
-- 🍃 Spring Boot
-- 📟 Laravel
-- 🐬 MySQL
-- 🐬 MariaDB
-- 📦 SQLite
-- 🧪 SQL Server
-- 🐘 PostgreSQL
-- 📄 HTML
-- 🎨 CSS
+
+
+
